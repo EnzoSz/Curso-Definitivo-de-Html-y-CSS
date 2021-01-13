@@ -1,0 +1,15 @@
+#encabezado {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+#titulos {
+    color: royalblue;
+    font-size: 40px;
+}
+#articulos {
+    color: purple;
+    font-size: 30px;
+}
