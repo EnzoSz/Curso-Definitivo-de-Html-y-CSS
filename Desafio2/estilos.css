@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+section {
+    width: 50%;
+    margin: 0 auto;
+}
+    
+img {
+    width: 50.0rem;
+    height: 50.0rem;
+    margin: 0;
+}
+figure{
+    background-color: slateblue;
+    text-align: center;
+    width: 50.0rem;
+    height: 40.0rem;
+    margin: 0 auto;
+}
+    
+h2 {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 1.3rem;
+    width: 30%;
+    border-radius: 4px;
+    top: 1.5rem;
+    position: relative;
+    margin: 0 auto;
+}
+    
+p {
+    background-color: yellowgreen;
+    text-align:center;
+    padding: 1.2rem;
+    border-radius: 4px;
+    margin: 0 auto;
+    bottom: 1rem;
+    position: relative;
+    width: 90%;
+}
