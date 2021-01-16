@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    background-color:cornflowerblue;
+}
+.header {
+    background-color: cyan;
+}
+.nav li {
+    position: relative;
+    margin: 10px 0;
+    display: table-cell;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.header_logo {
+    position: relative;
+    width: 320px;
+    z-index: 5 ;
+}
+.obras {
+    display: inline-block;
+    height: 100%;
+    padding: 10px;
+    background-color: royalblue;
+    width: 30%;
+}
+
+.rutes_obras img {
+    display: block;
+    margin: 0;  
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+}
+.main {
+    height: 88vh;
+    background-color: skyblue;
+    border-left-width: 70%;
+}
+.footer {
+    padding: 20px;
+
+    background-color: slategray;
+    
+}
+.footer_list li h2 {
+    display: inline-block;
+}
